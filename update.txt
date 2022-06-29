@@ -1,5 +1,5 @@
-{"version_code":211817018,"content":"
-<p> تحديث|Update V2.41</p>
+{"version_code":211817019,"content":"
+<p> تحديث|Update V2.40</p>
 
 
 
@@ -17,19 +17,7 @@
 <li> اصلاح ميزة تجاوز خاصية العرض لمرة واحدة.</li>
 <li> تحسينات متعلقة بالاستقرار والأداء.</li>
 
-<li>New Base Updated to 2.22.4.74 Stable Base.</li>
-<li>Added Blue Tick on Reply for Groups</li>
-<li>Added Ability to pause and resume voice recordings when you’re recording a voice note!</li>
-<li>Enable Disappearing messages more options (24hrs, 7 days, 90 days).</li>
-<li>Removed the horizontal media bar from the WhatsApp camera.</li>
-<li>Enable Reactions.</li>
-<li>Enable Global Voice Note Player.</li>
-<li>Enable New drawing tools.</li>
-<li>Enable Reaction Notifications.</li>
-<li>Enable New Media Picker.</li>
-<li>Fixed Anti View Once turning opened randomly.</li>
-<li>Bugs fixes and speed improvements.</li>
-<li>Many other things that I forgot.</li>
+
 
  
 
