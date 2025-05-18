@@ -1,6 +1,6 @@
 {
   "version": "1.3",
-  "update_url": "https://elplayer.elbatal-app.com",
+  "update_url": "https://bibo1010.blogspot.com/?m=1",
   "force_update": "true",
   "mouscripts_stats": "true",
   "banner1_unitid": "ca-app-pub-2977470630449223/7403262194",
