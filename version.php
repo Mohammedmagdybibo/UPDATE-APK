@@ -1,5 +1,5 @@
 {
-  "version": "1.2",
+  "version": "1.0",
   "update_url": "https://bibo1010.blogspot.com/?m=1",
   "force_update": "true",
   "mouscripts_stats": "true",
